@@ -1,9 +1,0 @@
-Crear tablas con vs / 
-Crear una archivo con extension.sql 
-Con el terminal de vs importar las tablas a postgre con la direccion del archivo
-'\data_base\i pokemones.sql'
-Se crearan las tablas y se pueden consultar con SELECT * FROM nombre de la tabla
-o con la extension de vs.
-
-Importar el archivo.csv, dandole los permisos de administrador directo al archivo
-pokemones=# \copy pokemones from '/Users/sebastianandres/Desktop/data_base/pokemonesKanto.csv' csv header;
